@@ -4,8 +4,29 @@
     width: 100%;
     text-align: center;
     box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
-    background-color: aqua;
+    background-color:rgb(217, 176, 255);
 }
 img:hover{
     border-radius: 140px;
+}
+body{
+    background-color: rgb(242, 223, 255);
+}
+#start{
+    background-color: rgb(156, 61, 245);
+}
+#h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#h4{
+    color: #871bec;
+    font: weight 5px;
+}
+#camera{
+    width: 400px;
+}
+img{
+    width: 400px;
+    border-radius: 10px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
 }
